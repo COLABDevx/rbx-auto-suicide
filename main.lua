@@ -31,7 +31,7 @@ Toggle.ResetOnSpawn = false
 local Container = Instance.new("Frame",Toggle)
 Container.Name = "Container"
 
-Container.Position = UDim2.new(0.5,0,0.8,0)
+Container.Position = UDim2.new(0.1,0,0.25,0)
 Container.Size = UDim2.new(0,190,0,30)
 
 Container.BackgroundColor3 = Color3.new(0.172549, 0.172549, 0.172549)
